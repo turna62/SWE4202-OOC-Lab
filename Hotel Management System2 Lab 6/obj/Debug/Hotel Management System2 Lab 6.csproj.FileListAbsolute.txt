@@ -1,0 +1,11 @@
+C:\Users\USER\OneDrive\Desktop\SWE4202 OOC Lab\Hotel Management System2 Lab 6\bin\Debug\Hotel Management System2 Lab 6.exe.config
+C:\Users\USER\OneDrive\Desktop\SWE4202 OOC Lab\Hotel Management System2 Lab 6\bin\Debug\Hotel Management System2 Lab 6.exe
+C:\Users\USER\OneDrive\Desktop\SWE4202 OOC Lab\Hotel Management System2 Lab 6\bin\Debug\Hotel Management System2 Lab 6.pdb
+C:\Users\USER\OneDrive\Desktop\SWE4202 OOC Lab\Hotel Management System2 Lab 6\obj\Debug\Hotel Management System2 Lab 6.csproj.AssemblyReference.cache
+C:\Users\USER\OneDrive\Desktop\SWE4202 OOC Lab\Hotel Management System2 Lab 6\obj\Debug\Hotel Management System2 Lab 6.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\OneDrive\Desktop\SWE4202 OOC Lab\Hotel Management System2 Lab 6\obj\Debug\Hotel_Management_System2_Lab_6.Form1.resources
+C:\Users\USER\OneDrive\Desktop\SWE4202 OOC Lab\Hotel Management System2 Lab 6\obj\Debug\Hotel_Management_System2_Lab_6.Properties.Resources.resources
+C:\Users\USER\OneDrive\Desktop\SWE4202 OOC Lab\Hotel Management System2 Lab 6\obj\Debug\Hotel Management System2 Lab 6.csproj.GenerateResource.cache
+C:\Users\USER\OneDrive\Desktop\SWE4202 OOC Lab\Hotel Management System2 Lab 6\obj\Debug\Hotel Management System2 Lab 6.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Desktop\SWE4202 OOC Lab\Hotel Management System2 Lab 6\obj\Debug\Hotel Management System2 Lab 6.exe
+C:\Users\USER\OneDrive\Desktop\SWE4202 OOC Lab\Hotel Management System2 Lab 6\obj\Debug\Hotel Management System2 Lab 6.pdb
